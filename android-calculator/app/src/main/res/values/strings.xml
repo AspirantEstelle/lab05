@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab05 계산기</string>
+    <string name="title">사칙연산 계산기</string>
+    <string name="subtitle">숫자 두 개를 입력하고 연산을 선택하세요.</string>
+    <string name="first_number">첫 번째 숫자</string>
+    <string name="second_number">두 번째 숫자</string>
+    <string name="number_hint">숫자 입력</string>
+    <string name="add">+</string>
+    <string name="subtract">−</string>
+    <string name="multiply">×</string>
+    <string name="divide">÷</string>
+    <string name="add_description">더하기</string>
+    <string name="subtract_description">빼기</string>
+    <string name="multiply_description">곱하기</string>
+    <string name="divide_description">나누기</string>
+    <string name="result_label">계산 결과</string>
+    <string name="result_empty">아직 계산하지 않았어요.</string>
+    <string name="missing_number">숫자를 입력하세요.</string>
+    <string name="invalid_number">올바른 숫자를 입력하세요.</string>
+    <string name="division_zero">0으로 나눌 수 없습니다.</string>
+    <string name="footer">LAB 05 · ANDROID</string>
+</resources>

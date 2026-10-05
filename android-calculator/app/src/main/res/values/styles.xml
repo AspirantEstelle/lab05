@@ -1,0 +1,17 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#3154CD</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="OperationButton" parent="android:style/Widget.Material.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">64dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:backgroundTint">#3154CD</item>
+    </style>
+</resources>
